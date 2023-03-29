@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/srhwang/Project/boot_camp/kafka/app.py", line 30, in <module>
+    @app.route("/")
+NameError: name 'app' is not defined
